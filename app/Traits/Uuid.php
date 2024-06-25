@@ -2,7 +2,7 @@
 
 namespace App\Traits;
 
-use Ramsey\UUid\Uuid as Generator;
+use Ramsey\Uuid\Uuid as Generator;
 
 trait Uuid
 {
